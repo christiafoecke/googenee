@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lifeixoegu.swimmindustries.com/sitemap.xml
